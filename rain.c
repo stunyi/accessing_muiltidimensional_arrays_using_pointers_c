@@ -47,6 +47,9 @@ int main(void){
 	
 	printf("\n");
 	
+//	pause();
+	getchar();
+	
 	return 0;
 	
 }
